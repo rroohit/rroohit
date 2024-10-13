@@ -1,10 +1,7 @@
 <h1 align="center">Hi.. I'm Rohit</h1>
 <h3 align="center">🚀 Android Developer | AOSP Dev. | Open Source Contributor | Tech Enthusiast</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rroohit" alt="rroohit" /></a> </p>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rroohit&show_icons=true&locale=en" alt="rroohit" /></p>
-
 
 <h4 align="center"> 
 
@@ -53,5 +50,7 @@ iOS, and beyond.*
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rroohit&show_icons=true&locale=en&layout=compact" alt="rroohit" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rroohit&" alt="rroohit" />
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rroohit" alt="rroohit" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rroohit&label=Profile%20views&color=0e75b6&style=flat" alt="rroohit" /></p>
