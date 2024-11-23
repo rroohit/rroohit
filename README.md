@@ -1,5 +1,5 @@
 <h1 align="center">Hi.. I'm Rohit</h1>
-<h3 align="center">🧑🏻‍💻 Android Developer | AOSP Dev. | Open Source Contributor | Tech Enthusiast</h3>
+<h3 align="center">🧑🏻‍💻 Android Developer | AOSP Dev. | Tech Enthusiast</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rroohit&show_icons=true&locale=en" alt="rroohit" /></p>
 
