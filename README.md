@@ -19,21 +19,21 @@ Building the **Android stack** from system-level frameworks to polished user int
 <table>
   <tr>
     <td width="48%">
-      <h4><img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="Android" width="20" height="20" /> System Android</h4>
+      <h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="20" height="20" /> System Android</h4>
       <p>Deep work on AOSP — framework layer, HAL integration, custom ROM development, low-level optimization.</p>
     </td>
     <td width="48%">
-      <h4><img src="https://cdn.worldvectorlogo.com/logos/jetpack-compose-1.svg" alt="Jetpack Compose" width="20" height="20" /> Jetpack Compose</h4>
+      <h4><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Jetpack_Compose_logo.png" alt="Jetpack Compose" width="20" height="20" /> Jetpack Compose</h4>
       <p>Custom UI components, complex animations, composition performance optimization. Published libraries and internal design systems.</p>
     </td>
   </tr>
   <tr>
     <td width="48%">
-      <h4><img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="Android" width="20" height="20" /> App Architecture</h4>
+      <h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="20" height="20" /> App Architecture</h4>
       <p>Clean architecture, MVI/MVVM patterns, modular design for scale. Navigation, state management, and testing strategies for complex applications.</p>
     </td>
     <td width="48%">
-      <h4><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="20" height="20" /> Kotlin Multiplatform</h4>
+      <h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="20" height="20" /> Kotlin Multiplatform</h4>
       <p>Cross-platform mobile development with KMP. Building shared business logic while leveraging platform-specific optimizations.</p>
     </td>
   </tr>
