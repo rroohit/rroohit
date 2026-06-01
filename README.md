@@ -45,6 +45,8 @@ Building the **Android stack** from system-level frameworks to polished user int
 
 **[ImageCropView](https://github.com/rroohit/ImageCropView)** — A production-ready Jetpack Compose image cropping library.
 
+[![GitHub Stars](https://img.shields.io/github/stars/rroohit/ImageCropView?style=flat-square)](https://github.com/rroohit/ImageCropView)
+
 Designed for modern Android applications, offering flexible cropping modes, smooth animations, and extensive customization options.
 
 ---
