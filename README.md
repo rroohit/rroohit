@@ -8,25 +8,36 @@
 
 ---
 
-## About
+## 🔍 About
 
-Building the Android stack from system-level frameworks to polished user interfaces. I specialize in Jetpack Compose UI architecture, scalable app design patterns, and AOSP customization. Currently exploring Kotlin Multiplatform to extend the reach of Android expertise beyond the platform itself.
+Building the **Android stack** from system-level frameworks to polished user interfaces. I specialize in Jetpack Compose UI architecture, scalable app design patterns, and AOSP customization. Currently exploring Kotlin Multiplatform to extend the reach of Android expertise beyond the platform itself.
 
 ---
 
-## What I Build
+## 🛠 What I Build
 
-**System Android**  
-Deep work on AOSP — framework layer, HAL integration, custom ROM development, low-level optimization.
-
-**Jetpack Compose**  
-Custom UI components, complex animations, composition performance optimization. Published libraries and internal design systems.
-
-**App Architecture**  
-Clean architecture, MVI/MVVM patterns, modular design for scale. Navigation, state management, and testing strategies for complex applications.
-
-**Kotlin Multiplatform**  
-Cross-platform mobile development with KMP. Building shared business logic while leveraging platform-specific optimizations.
+<table>
+  <tr>
+    <td width="48%">
+      <h4>⚙️ System Android</h4>
+      <p>Deep work on AOSP — framework layer, HAL integration, custom ROM development, low-level optimization.</p>
+    </td>
+    <td width="48%">
+      <h4>🎨 Jetpack Compose</h4>
+      <p>Custom UI components, complex animations, composition performance optimization. Published libraries and internal design systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="48%">
+      <h4>🏗️ App Architecture</h4>
+      <p>Clean architecture, MVI/MVVM patterns, modular design for scale. Navigation, state management, and testing strategies for complex applications.</p>
+    </td>
+    <td width="48%">
+      <h4>📱 Kotlin Multiplatform</h4>
+      <p>Cross-platform mobile development with KMP. Building shared business logic while leveraging platform-specific optimizations.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,11 +49,14 @@ Designed for modern Android applications, offering flexible cropping modes, smoo
 
 ---
 
-## Currently
+## 🚀 Currently
 
-Diving deep into **system design for mobile applications** — understanding scalability patterns, architecture decisions at the 10M+ user scale, and performance profiling on diverse device ecosystems.
+<div align="center">
 
-Actively exploring **Kotlin Multiplatform** to build truly cross-platform experiences without compromising on native performance or UX.
+**System Design** for mobile at scale · Performance profiling across device ecosystems  
+**Kotlin Multiplatform** · Building cross-platform experiences without compromise  
+
+</div>
 
 ---
 
