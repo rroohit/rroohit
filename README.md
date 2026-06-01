@@ -10,7 +10,7 @@
 
 ## 🔍 About
 
-Building the **Android stack** from system-level frameworks to polished user interfaces. I specialize in Jetpack Compose UI architecture, scalable app design patterns, and AOSP customization. Currently exploring Kotlin Multiplatform to extend the reach of Android expertise beyond the platform itself.
+Competitive programmer & Android engineer solving problems at **scale**. 900+ LeetCode problems, 4+ years shipping Kotlin/Compose apps, published 2 libraries with 150+ GitHub stars. I think in systems — from architecture patterns that scale to pixel-perfect UI animations. Currently deep in **Kotlin Multiplatform**, extending Android expertise to iOS and beyond while maintaining the same rigor I bring to algorithmic problem-solving.
 
 ---
 
