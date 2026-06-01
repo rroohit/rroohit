@@ -14,26 +14,26 @@ Building the **Android stack** from system-level frameworks to polished user int
 
 ---
 
-## 🛠 What I Build
+## What I Build
 
 <table>
   <tr>
     <td width="48%">
-      <h4>⚙️ System Android</h4>
+      <h4><img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="Android" width="20" height="20" /> System Android</h4>
       <p>Deep work on AOSP — framework layer, HAL integration, custom ROM development, low-level optimization.</p>
     </td>
     <td width="48%">
-      <h4>🎨 Jetpack Compose</h4>
+      <h4><img src="https://cdn.worldvectorlogo.com/logos/jetpack-compose-1.svg" alt="Jetpack Compose" width="20" height="20" /> Jetpack Compose</h4>
       <p>Custom UI components, complex animations, composition performance optimization. Published libraries and internal design systems.</p>
     </td>
   </tr>
   <tr>
     <td width="48%">
-      <h4>🏗️ App Architecture</h4>
+      <h4><img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="Android" width="20" height="20" /> App Architecture</h4>
       <p>Clean architecture, MVI/MVVM patterns, modular design for scale. Navigation, state management, and testing strategies for complex applications.</p>
     </td>
     <td width="48%">
-      <h4>📱 Kotlin Multiplatform</h4>
+      <h4><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="20" height="20" /> Kotlin Multiplatform</h4>
       <p>Cross-platform mobile development with KMP. Building shared business logic while leveraging platform-specific optimizations.</p>
     </td>
   </tr>
@@ -64,11 +64,17 @@ Designed for modern Android applications, offering flexible cropping modes, smoo
 
 <div align="center">
 
-| **Mobile Development** | **System & Architecture** | **Tools & Infrastructure** |
-|:---:|:---:|:---:|
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) | ![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=flat-square) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+**Mobile Dev** · **Android** · **Architecture** · **Tools**
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com)
+[![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&color=4285F4&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![MVVM](https://img.shields.io/badge/Architecture-MVP|MVI|MVVM-0d1117?style=flat-square)](https://developer.android.com/topic/architecture)
+
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 
 </div>
 
