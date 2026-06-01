@@ -71,7 +71,6 @@ Designed for modern Android applications, offering flexible cropping modes, smoo
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com)
 [![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&color=4285F4&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![MVVM](https://img.shields.io/badge/Architecture-MVP|MVI|MVVM-0d1117?style=flat-square)](https://developer.android.com/topic/architecture)
 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com)
