@@ -86,9 +86,9 @@ Designed for modern Android applications, offering flexible cropping modes, smoo
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rroohit&show_icons=true&theme=github_dark_dimmed&hide_border=true&card_width=400) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rroohit&theme=github-dark-dimmed&hide_border=true) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rroohit&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rroohit&theme=github-dark-dimmed&hide_border=true)
 
 </div>
 
