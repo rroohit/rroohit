@@ -32,8 +32,7 @@ Cross-platform mobile development with KMP. Building shared business logic while
 
 ## Open Source
 
-**ImageCropView** — A production-ready Jetpack Compose image cropping library.  
-[![GitHub Stars](https://img.shields.io/github/stars/rroohit/ImageCropView?style=flat-square&color=0d1117)](https://github.com/rroohit/ImageCropView)
+**[ImageCropView](https://github.com/rroohit/ImageCropView)** — A production-ready Jetpack Compose image cropping library.
 
 Designed for modern Android applications, offering flexible cropping modes, smooth animations, and extensive customization options.
 
